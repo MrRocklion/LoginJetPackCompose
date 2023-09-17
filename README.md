@@ -1,4 +1,3 @@
 #Login en JetPack Compose
 Hecho por MrRocklion
-
-![alt text](cap1.png "Imagen de la app") | ![alt text](cap2.png "Imagen de la app")
+![alt-text-1](cap1.png "title-1") ![alt-text-2](cap2.png "title-2")
